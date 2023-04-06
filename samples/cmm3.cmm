@@ -1,0 +1,6 @@
+main {
+	var x;
+	read x;
+	write x * x;
+	writeln;
+}

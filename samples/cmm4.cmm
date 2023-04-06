@@ -1,0 +1,10 @@
+main {
+	var x;
+	read x;
+
+	while x > 0 do {
+		write x;
+		writeln;
+		x := x - 1;
+	}
+}
